@@ -76,24 +76,6 @@ O site está disponível para ser testado em: [https://qrcodegen-eztickets.verce
 ✅ Lista de Ingressos: Desenvolvemos uma funcionalidade que permite a visualização de todos os ingressos registrados até o momento. Os usuários podem filtrar a lista por nome ou identificar os ingressos não utilizados. 📋🔍
 
 ✅ Validação Manual: Para flexibilidade adicional, oferecemos a validação manual dos ingressos por meio de um ID exclusivo associado a cada um deles, garantindo verificações confiáveis. 🧾✅
-## Capturas de Tela 📷
-
-<table>
-  <tr>
-    <td align="center"><img src="/screenshots/qrcode exemplo.jfif" alt="Ingresso" ></td>
-    <td align="center"><img src="/screenshots/ingresso valido.jfif" alt="Escanear Ingresso" ></td>
-    <td align="center"><img src="/screenshots/Visualizar.png" alt="Visualizar Ingresso" ></td>
-    <td align="center"><img src="/screenshots/validar.png" alt="Validar Ingresso" ></td>
-    <td align="center"><img src="/screenshots/registrarr.png" alt="Registrar Ingresso"  ></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Exemplo de ingresso</em></td>
-    <td align="center"><em>Funcionamento do leitor</em></td>
-    <td align="center"><em>Exemplo da tela visualizar ingressos</em></td>
-    <td align="center"><em>Exemplo da validação</em></td>
-    <td align="center"><em>Exemplo de registar ingresso</em></td>
-  </tr>
-</table>
 
 ## Equipe 👨‍💻
 
