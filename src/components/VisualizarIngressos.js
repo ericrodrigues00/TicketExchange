@@ -128,7 +128,7 @@ const StyledTable = styled.table`
     padding: 5px -20%; 
   }
   @media (max-width: 768px) {
-    font-size: 14px;
+    font-size: 10px;
   }
 `;
 
@@ -150,6 +150,9 @@ const Button = styled.button`
   position: relative;
   height:50px;
   width:300px;
+  /*&:hover {
+    background-color: #a391d6;
+  }*/
 
   &:after {
     content: "";
@@ -184,19 +187,19 @@ const Tr = styled.tr`
     color: purple;
   }
 `;
-
+//teste
 const ThCustom = styled.th`
-  padding: 5px 20px; 
+  
   background-color: #333;
   color: white;
  `;
 
 const TdCustom = styled.td`
-  padding: 5px 100px; 
+  padding: 5px 100px; /* Estilo personalizado para a coluna específica */
   
 `;
 const LabelWithCustomFontSize = styled.label`
-  font-size: 18px; 
+  font-size: 18px; /* Tamanho da fonte personalizado em pixels */
 `;
 const Input = styled.input`
   padding: 10px;
