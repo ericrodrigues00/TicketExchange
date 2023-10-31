@@ -115,7 +115,7 @@ const StyledTable = styled.table`
     padding: 5px -20%; // Remova o padding horizontal e mantenha o padding vertical
   }
   @media (max-width: 768px) {
-    font-size: 14px;
+    font-size: 10px;
   }
 `;
 
@@ -214,7 +214,6 @@ const Tr = styled.tr`
 `;
 //teste
 const ThCustom = styled.th`
-  padding: 5px 20px; /* Estilo personalizado para a coluna específica */
   background-color: #333;
   color: white;
  `;
