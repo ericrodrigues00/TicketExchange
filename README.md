@@ -58,7 +58,7 @@ npm start
 
 ## Deploy 🚀
 
-O site está disponível para ser testado em: [https://qrcodegen-eztickets.vercel.app](https://qrcodegen-eztickets.vercel.app)
+Uma versão do site está disponível para ser testado em: [https://qrcodegen-eztickets.vercel.app](https://qrcodegen-eztickets.vercel.app)
 
 ## Tecnologias Utilizadas 💻
 
@@ -85,3 +85,8 @@ Este projeto foi realizado por:
 - João Vinicius Castro ([GitHub](https://github.com/akastroo))
 - Mauro Sales Dias Ramos ([GitHub](https://github.com/maurosdr))
 - Marco Schweitzer ([GitHub](https://github.com/MarcoSchwepps))
+
+## Caputras de Tela
+<img width="515" height="852" alt="image" src="https://github.com/user-attachments/assets/edfa0b8d-cb38-4841-8fc3-8c294efe2de2" />
+<img width="1869" height="935" alt="image" src="https://github.com/user-attachments/assets/6d51ad78-028b-4d22-8511-afb48713560e" />
+
