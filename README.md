@@ -1,6 +1,6 @@
-# ParmeJó 2023 - Controle de Ingressos 🎫
+# TicketExchange - Controle de Ingressos 🎫
 
-Projeto realizado para o evento "ParmeJó 2023" organizado pela unidade da Bethel Church de Jundiaí - SP, com o objetivo de controlar e validar os ingressos emitidos para o evento.
+Projeto realizado e posto a prova para a geração e validação de ingressos em formato de QRcode para um evento, bem como permitir a gestão dos ingressos emitidos e o envio deles por email.
 
 ## Tabela de Conteúdos 📋
 
